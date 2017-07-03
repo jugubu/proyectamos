@@ -76,3 +76,13 @@ Si quieres poner otro simbolo tienes que poner mas de un espacio delante de la p
 Barra horizontal,Se pueden poner de varias formas, colocar mas de dos
 
 _____________________________________
+
+Se puede hacer bloque de codigo con tres acentos
+
+```phyton```
+
+Enlaces, se colocan entre dos corchetes, []
+
+
+
+

@@ -56,9 +56,9 @@ Se pone el numero y un punto, puede ser todos un 1. Los subelementos se pone 1 y
 
 1. primer elemento
 
-  1. segundo nivel
+    1. segundo nivel
   
-  1. segundo nivel
+    1. segundo nivel
 
 1. segundo elemento
 

@@ -31,5 +31,13 @@ se ponen dos asteriscos al principio y final o bien dos guiones bajo.
 
 **saldra negrita**
 
-__saldra tambien negrita
+__saldra tambien negrita__
+
+Cursiva se ponen un solo asterisco y despues, o bien se pone guion bajo antes y despues.
+
+_cursiva_
+
+
+*cursiva*
+
 

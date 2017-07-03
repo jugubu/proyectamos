@@ -113,6 +113,6 @@ Para ponerlas ![foto de un gato en una caja], luego entre parentesis la direcci√
 Se ponen |, _ y dos puntos
 
 |Cabecera 1|Cabecera 2|Cabecera 3|
-|__________|_________:|:_________|
+|----------|----------:|:--------|
 |celda 1a | celda 2a|celda 3a|
 |celda 1b|celda 2b|celda 3b|

@@ -85,6 +85,24 @@ _____________________________________
 
 # Enlaces, se colocan entre dos corchetes, []
 
+Enlace a [miblog](http://www.psicobyte.com)
 
+Enlaces con referencias [enlaces con referencias][1]
+
+La referencia [puede ser un texto][referencia de texto]
+
+[1]:http://osl.ugr.es
+
+[referencia de texto]
+
+# Imagenes
+
+Para ponerlas ![foto de un gato en una caja], luego entre parentesis la dirección de la imagen ()
+
+# ponemos imagenes con referencia
+
+![la misma foto del gato][gato]
+
+[gato]: http://img.imagenescool.com/ic/buenos-dias/buenos-dias_143.jpg
 
 

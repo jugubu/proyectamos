@@ -45,3 +45,7 @@ Podemos poner un texto tachado. Se puede poner con la virgulilla, dos veces ante
 ~~tacharemos~~
 
 Altgr+4
+
+Escapar un caracter, se coloca la barra inclinada delante del caracter, es en el teclado numeral/
+
+\*no es cursiva\

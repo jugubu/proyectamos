@@ -108,4 +108,11 @@ Para ponerlas ![foto de un gato en una caja], luego entre parentesis la direcci√
 
 [paisaje]: http://www.paisajesbonitos.org/wp-content/uploads/2016/01/paisajes-bonitos-de-verano-playa-paradisiaca-exotica-imagen-foto-wallpaper-0.jpg
 
+# Tablas
 
+Se ponen |, _ y dos puntos
+
+|Cabecera 1|Cabecera 2|Cabecera 3|
+|__________|_________:|:_________|
+|celda 1a | celda 2a|celda 3a|
+|celda 1b|celda 2b|celda 3b|

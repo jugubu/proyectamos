@@ -1,2 +1,2 @@
 # proyectamos
-estamos proyectando un repositorio nuevo
+estamos proyectando un repositorio nuevo, puede que lleguemos a buen puerto

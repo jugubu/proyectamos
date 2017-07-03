@@ -46,6 +46,23 @@ Podemos poner un texto tachado. Se puede poner con la virgulilla, dos veces ante
 
 Altgr+4
 
-Escapar un caracter, se coloca la barra inclinada delante del caracter, es en el teclado numeral/
+Escapar un caracter, se coloca la barra inclinada delante del caracter, no es en el teclado numeral/, es \, solo delante.
 
-\*no es cursiva\
+\*no es cursiva
+
+Listas numeradas.
+
+Se pone el numero y un punto, puede ser todos un 1. Los subelementos se pone 1 y punto se coloca poniendo tabulador o mas de uno segun el nivel.
+
+1. primer elemento
+
+  1. segundo nivel
+  
+  1. segundo nivel
+
+1. segundo elemento
+
+1. tercer elemento
+
+
+

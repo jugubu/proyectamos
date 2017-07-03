@@ -75,4 +75,4 @@ Si quieres poner otro simbolo tienes que poner mas de un espacio delante de la p
 
 Barra horizontal,Se pueden poner de varias formas, colocar mas de dos
 
-____
+_____________________________________

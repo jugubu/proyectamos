@@ -40,4 +40,8 @@ _cursiva_
 
 *cursiva*
 
+Podemos poner un texto tachado. Se puede poner con la virgulilla, dos veces antes y despues de la palabra.
 
+~~tacharemos~~
+
+Altgr+4

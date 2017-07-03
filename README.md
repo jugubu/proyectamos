@@ -52,17 +52,19 @@ Escapar un caracter, se coloca la barra inclinada delante del caracter, no es en
 
 Listas numeradas.
 
-Se pone el numero y un punto, puede ser todos un 1. Los subelementos se pone 1 y punto se coloca poniendo tabulador o mas de uno segun el nivel.
+Se pone el numero y un punto, puede ser todos un 1. Los subelementos se pone 1 y punto se coloca poniendo espacios o mas de uno segun el nivel.
 
 1. primer elemento
 
-    1. segundo nivel
+   1. segundo nivel
   
-    1. segundo nivel
+   1. segundo nivel
 
 1. segundo elemento
 
 1. tercer elemento
 
-
+Listas no numeradas, se ponen asterisco y espacio delante y otro espacio
+* primer elemento
+* primer elemento
 

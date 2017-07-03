@@ -68,3 +68,11 @@ Listas no numeradas, se ponen asterisco y espacio delante y otro espacio
 * primer elemento
 * primer elemento
 
+Si quieres poner otro simbolo tienes que poner mas de un espacio delante de la palabra.
+
+*  segundo elemento
+*  segundo elemento
+
+Barra horizontal,Se pueden poner de varias formas, colocar mas de dos
+
+____

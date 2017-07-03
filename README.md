@@ -116,3 +116,7 @@ Se ponen |, _ y dos puntos
 |----------|----------:|:--------|
 |celda 1a | celda 2a|celda 3a|
 |celda 1b|celda 2b|celda 3b|
+
+# hay algo que necesito y no está...
+
+Se pueden utilizar lenguaje HTML <strong>HTML<strong>

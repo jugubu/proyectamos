@@ -102,7 +102,10 @@ Para ponerlas ![foto de un gato en una caja], luego entre parentesis la direcci√
 # ponemos imagenes con referencia
 
 ![la misma foto del gato][gato]
+![la misma fotoa del paisaje][paisaje]
 
 [gato]: http://img.imagenescool.com/ic/buenos-dias/buenos-dias_143.jpg
+
+[paisaje]: http://www.paisajesbonitos.org/wp-content/uploads/2016/01/paisajes-bonitos-de-verano-playa-paradisiaca-exotica-imagen-foto-wallpaper-0.jpg
 
 

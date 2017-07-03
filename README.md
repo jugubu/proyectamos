@@ -120,3 +120,7 @@ Se ponen |, _ y dos puntos
 # hay algo que necesito y no está...
 
 Se pueden utilizar lenguaje HTML <strong>HTML<strong>
+
+# Pandoc puede convertir markdown en pdf, etc. Nos mandan los enlaces.
+
+# psicobyte.github.io/markdown_slides, esta el manual de esto que hemos visto

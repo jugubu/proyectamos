@@ -5,7 +5,7 @@ puede que lleguemos a buen puerto.
 
 Si no separas los parrafos con una linea en blanco no es un parrafo.
 
-Cabeceras. Se ponen colocan una almohadilla y un espacio.
+Cabeceras. Se ponen colocan una almohadilla y un espacio, para el primer nivel, con dos almohadillas para el segundo nivel, etc.
 
 # cabecera 1.
 
@@ -21,4 +21,15 @@ Cabecera H2
 
 Citas. El texto tras el signo ">" aparece citado. Como en el correo electrónico. Muy conveniente.
 >muy conveniente
+>línea
+
+cada linea tiene que tener su signo
+
+ënfasis (negritas)
+
+se ponen dos asteriscos al principio y final o bien dos guiones bajo.
+
+**saldra negrita**
+
+__saldra tambien negrita
 
